@@ -5,7 +5,8 @@ anyio==4.5.2
 arabic-reshaper==3.0.0
 asgiref==3.8.1
 asn1crypto==1.5.1
-astroid==2.3.2
+six==1.15.0
+astroid==2.4.2
 astunparse==1.6.3
 atomicwrites==1.4.0
 attrs==21.2.0
@@ -165,7 +166,6 @@ Scrapy==2.5.0
 seaborn==0.13.2
 selenium==3.141.0
 service-identity==21.1.0
-six==1.15.0
 sklearn==0.0
 sklearn-preprocessing==0.1.0
 sklearn2==0.0.13
